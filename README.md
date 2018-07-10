@@ -1,3 +1,9 @@
+
+
+**NB**: this is a fork of [react-native-flip-card](https://github.com/moschan/react-native-flip-card)
+
+
+
 react-native-flip-card
 ===
 
@@ -20,7 +26,7 @@ Installation
 in Cli
 ---
 ```
-npm i react-native-flip-card
+npm install --save https://github.com/MaximusBaton/react-native-flip-card.git
 ```
 
 
